@@ -73,7 +73,7 @@ header h1#logo {
 }
     
 header h1#logo a {
-  background-image: url("./comcomlogo2.png");
+  background-image: url("./comcom_circleonly.png");
   background-size: 150px;
   background-repeat: no-repeat;
   height:150px;
@@ -83,7 +83,7 @@ header h1#logo a {
   background-position: center;}
   @media only screen and (min-width: 769px) {
     header h1#logo a {
-       background-image: url("./comcomlogo2.png");
+       background-image: url("./comcom_circleonly.png");
   background-size: 80px;
   background-repeat: no-repeat;
   height:80px;
